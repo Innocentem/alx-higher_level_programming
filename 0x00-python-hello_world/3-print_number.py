@@ -1,4 +1,4 @@
 #!/usr/bin/python3
 number = 98
-message = '%d Battery street\n' % (number)
+message = '%d Battery street' % (number)
 print(message)
