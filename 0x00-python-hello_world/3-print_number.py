@@ -1,4 +1,3 @@
 #!/usr/bin/python3
 number = 98
-req = '%d Battery street' % (number)
-print(req)
+'%d Battery street' % (number)
