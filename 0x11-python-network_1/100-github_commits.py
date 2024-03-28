@@ -28,3 +28,4 @@ if __name__ == '__main__':
         author = element.get('commit').get('author').get('name')
         print("{}: {}".format(sha, author))
         i += 1
+

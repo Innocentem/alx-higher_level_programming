@@ -12,3 +12,4 @@ if __name__ == '__main__':
     email = argv[2]
     res = post(url, {'email': email})
     print(res.text)
+

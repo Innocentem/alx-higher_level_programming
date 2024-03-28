@@ -9,3 +9,4 @@ if __name__ == '__main__':
 
     res = get(argv[1])
     print(res.headers.get('X-Request-Id'))
+
